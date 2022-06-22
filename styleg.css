@@ -1,0 +1,105 @@
+.menu{
+  background:black;
+  padding:0px;
+}
+.menu p{
+  font-family:arial;
+  color:white;
+  margin:0;
+
+}
+.top{
+  background:#C70039;
+  padding:20px 0;
+}
+.top img{
+  width:120px;
+  
+}
+.top h1{
+  font-family:cursive;
+  color:white;
+  text-align:center;
+   
+}
+
+.top h2{
+  font-family:cursive;
+  color:white;
+  text-align:center;
+}
+.nav-link{
+  color:black !important;
+  background: white;
+  padding: 10px  !important;
+  text-align:center;
+  
+}
+    
+.abb{
+    padding: 10px;
+}
+.abb h1{
+    text-align: center;
+    font-family:Algerian;
+    color:black;
+}
+.btn:focus, .btn:active, button:focus, button:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  #image-gallery .modal-footer{
+    display: block;
+   
+  }
+  
+  .thumb{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .boxarea{
+    background:black;
+    padding:30px 0;
+}
+.boxarea h3 {
+    color:#F39C12;
+    border-left: solid 2px #FFF;
+    padding-left: 10px;
+    }
+    
+.boxarea p{
+    color:white;
+    transition: all 2s;
+    }
+.boxarea p:hover{
+    
+    transform: translateX(10px);
+
+}
+.boxarea ul {
+    }
+.boxarea ul li {
+        color:white;
+        list-style: none;
+        transition: all 2s;	
+    }
+
+.boxarea ul li:hover{
+    
+    list-style: none;
+    transform: translateX(10px);
+    /* border: solid 1px white; */
+    
+}
+.foot{
+    background:black;
+    padding:10px;
+    border-top: solid 1px #FFF;
+    text-align:center;
+}
+.foot p{
+    color:#F39C12;
+
+}
+
